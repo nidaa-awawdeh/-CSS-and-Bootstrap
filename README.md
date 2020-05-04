@@ -1,2 +1,2 @@
-# -CSS-and-Bootstrap
+# CSS-and-Bootstrap
 Intermediate CSS and Twitter Bootstrap
